@@ -1,0 +1,20 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# VSCode配置（个人设置不用传）
+.vscode/
+
+# 运行时生成的数据（每个人跑出来不一样）
+telemetry.csv
+
+# 模型文件太大，不传GitHub（要自己想办法存）
+models/
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
